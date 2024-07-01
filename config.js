@@ -52,7 +52,7 @@ global.location = "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.timezone = process.env.TZ || process.env.TIME_ZONE = "Asia/Kolkata";
-global.github = process.env.GITHUB || "https://github.com/lufa-official";
+global.github = process.env.GITHUB || "https://github.com/DeeCeeXxx/QUEEN_ANITA-V2";
 global.gurl = process.env.GURL || "";
 global.website = process.env.GURL || "";
 global.devs = "2349066528353";
